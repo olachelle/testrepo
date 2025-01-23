@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION;TYPE=WORK:3.0
+PROFILE:VCARD
+URL;VALUE=URI:
+N;CHARSET=UTF-8:Malene Barnett;;;;
+FN;CHARSET=UTF-8:Malene Barnett
+ORG;CHARSET=UTF-8:Black Artists + Designers Guild
+EMAIL:hello@badguild.info
+ADR;CHARSET=UTF-8:;;362 Halsey St,;Brooklyn;NY;11216-2412;USA
+END:VCARD
